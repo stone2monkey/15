@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCircleDlg" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAsAAAAAAAAAAJAAAAEEAAAAAAACMEIkAAAQAAA=</HashCode>
+      <FileName>CircleDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClearRubbishDlg" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAICAEAAQAAAAAAGBBEAAAAABAAANAAAAIEAAEIAAA=</HashCode>
+      <FileName>ClearRubbishDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_CGlobal" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>_CGlobal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInterface" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAIAgAAAAAAAUAAAgKEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMD5" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgAAAAAAAAEAAAQAAAAEAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MD5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMD5Dlg" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEAAEAAAAAAABIAAAABAQAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>MD5Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyEdit" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACABAAAAABkAAAAAAAAABAAAAAQAAA=</HashCode>
+      <FileName>MyEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyModuleData" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAIAAQAACAAAAAAAAAAAAAAFEA=</HashCode>
+      <FileName>MyModuleData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyProcessData" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAAAAAAAAAAAAAAEAAgAAAAAAAABAAAABAAEA=</HashCode>
+      <FileName>MyProcessData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyServiceData" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAgAAAAAAACAAAAAAAgAAAAAQAAAAAAA=</HashCode>
+      <FileName>MyServiceData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyThreadData" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyThreadData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyWindowData" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAAAAAAAAAAAiAAAAAAAAAAABAAA=</HashCode>
+      <FileName>MyWindowData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPEData" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAAAIAAAAAAkIBIAAEAABAAAACAAAQAAA=</HashCode>
+      <FileName>PEData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPEParseDlg" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAFABAMAACggGBACAABICAyAABQgAAIEAAAZiAA=</HashCode>
+      <FileName>PEParseDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CServiceManagerDlg" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAEAAAEQAIAACJAAAIAAAAAIAACAAEIEgAAAAAA=</HashCode>
+      <FileName>ServiceManagerDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CViewAllWindowsDlg" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAEAAAAACBAAQAAIAAAAAAAAAAIEAAAIAAA=</HashCode>
+      <FileName>ViewAllWindowsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CViewModulesDlg" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BEACAAEAAAEAAAAACBAABEAAACAAAAAIAAIEAQAAAAA=</HashCode>
+      <FileName>ViewModulesDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CViewProcessesDlg" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAEABAMAAAAAmBAAAAAAAAAAAgAAAAKEEAAQAAA=</HashCode>
+      <FileName>ViewProcessesDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CViewThreadsDlg" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAEAAAAQGBACBAAAAAAAAAAAAAIEAAhAAAA=</HashCode>
+      <FileName>ViewThreadsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinProtectionApp" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>WinProtection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinProtectionDlg" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAIEAAAAAAAwAABAAAARgAAABAEQAAAAEAABQIBA=</HashCode>
+      <FileName>WinProtectionDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
